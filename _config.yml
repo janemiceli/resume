@@ -60,9 +60,9 @@ content:
     content:
     - layout: top-middle
       title: Senior Manager Software Engineering
-      image: images/kohls.png
+      about_profile_image: images/kohls.png
       sub_title: Kohl's
-      caption: Janurary 2021 - presemt
+      caption: Janurary 2021 - present
       link: https://www.kohls.com
       #quote: >
       #  Emerging Technology Consulting and Managed Services
