@@ -60,6 +60,7 @@ content:
     content:
     - layout: top-middle
       title: Senior Manager Software Engineering
+      image: images/kohls.png
       sub_title: Kohl's
       caption: Janurary 2021 - presemt
       link: https://www.kohls.com
@@ -67,7 +68,6 @@ content:
       #  Emerging Technology Consulting and Managed Services
       #description: | # this will include new lines to allow paragraphs
     - layout: top-middle
-      images/kohls.png
       title: Principal Engineer and Lead, DevOps Now
       sub_title: Taos Mountain
       caption: December 2019 - Janurary 2021
