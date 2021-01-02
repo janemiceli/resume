@@ -177,7 +177,7 @@ content:
         title: Application Platform Operations Production Provisioning
         sub_title: SCTE*ISBE
         caption: 2020
-        link: link
+        #link: link
         #quote: >
         #  Short institution or course description (optional)
         #description: | # this will include new lines to allow paragraphs
