@@ -60,8 +60,8 @@ content:
     content:
     - layout: top-middle
       title: Senior Manager Software Engineering
-      image: /images/kohls.png
-      sub_title: Kohl's
+      image: https://github.com/janemiceli/resume/blob/gh-pages/images/kohls.png
+      sub_title: ![alt text](https://github.com/janemiceli/resume/blob/gh-pages/images/kohls.png "Kohl's") Kohl's
       caption: January 2021 - present
       link: https://www.kohls.com
       #quote: >
