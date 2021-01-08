@@ -59,8 +59,8 @@ content:
     layout: list
     content:
     - layout: top-middle
-      title: Senior Manager Software Engineering
-      image: /images/kohls.png
+      title: Senior Manager Software Engineering, post-customer experience
+      icon: kohls.png
       sub_title: Kohl's
       caption: January 2021 - present
       link: https://www.kohls.com
