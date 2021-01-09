@@ -51,7 +51,7 @@ content:
     - layout: top-middle
       title: Senior Manager, Software Engineering
       icon: images/kohls.png
-      sub_title: Kohl's
+      #sub_title: Kohl's
       caption: January 2021 - present
       link: https://www.kohls.com
       #quote: >
@@ -59,7 +59,8 @@ content:
       #description: | # this will include new lines to allow paragraphs
     - layout: top-middle
       title: Principal Engineer and Lead, DevOps Now
-      sub_title: Taos Mountain
+      icon: images/taos.png
+      #sub_title: Taos Mountain
       caption: December 2019 - Janurary 2021
       link: https://www.taos.com/
       #quote: >
@@ -80,7 +81,8 @@ content:
       #  Technologies: AWS, Azure, GCP, Harvest, Timeular, JIRA, JSD, Confluence, Slack, Sococo, Chef, Ruby, Terraform, Ansible, Pagerduty, Github.com, Gitlab.com, Python, Ruby, bash, Perl, Jenkins, Harness, Circle CI
     - layout: top-middle
       title: Cloud Enterprise Architect
-      sub_title: Micron
+      icon: images/micron.png
+      #sub_title: Micron
       caption: February 2019 - December 2019
       link: https://www.micron.com/
       #quote: >
@@ -89,7 +91,8 @@ content:
       #  
     - layout: top-middle
       title: Automation and Operations Engineer
-      sub_title: HP
+      icon: images/hp.png
+      #sub_title: HP
       caption: 2014 - 2018
       link: https://www.hp.com/
       #quote: >
@@ -98,7 +101,8 @@ content:
       #  
     - layout: top-middle
       title: Software Development Engineer
-      sub_title: Xylem (formerly Sensus)
+      icon: images/sensus.png
+      #sub_title: Xylem (formerly Sensus)
       caption: 2013 - 2014
       link: https://www.sensus.com/
       #quote: >
@@ -107,7 +111,8 @@ content:
       #  
     - layout: top-middle
       title: Software Engineer
-      sub_title: Silverback Learning solutions
+      #sub_title: Silverback Learning solutions
+      icon: images/silverback.png
       caption: 2010 - 2011
       link: https://www.sbls.com/
       #quote: >
@@ -116,7 +121,7 @@ content:
       #  Implemented and tested new features in Web Services using C# get or set preferences targeted for the Microsoft Windows 7/XP/CE development platforms. Duplicated options in SNMP to XML. 
     - layout: top-middle
       title: Quality Assurance Engineer
-      sub_title: bodybuilding.com
+      icon: images/bbcom.png
       caption: 2008-2010
       link: https://www.bodybuilding.com
       #quote: >
@@ -125,7 +130,7 @@ content:
       #  Quality assurance specialist on a scrum team for 18 months finding, submitting, and fixing defects.  
     - layout: top-middle
       title: Firmware Design Engineer
-      sub_title: Hewlett-Packard
+      icon: images/hp.png
       caption: 2007 - 2008
       link: https://www.hp.com/
       #quote: >
@@ -134,7 +139,8 @@ content:
       #  Audited and wrote unit tests to ensure 80% automated test code coverage for all components on the team.          
     - layout: top-middle
       title: Software Test Engineer
-      sub_title: Rockwell Automation
+      icon: images/ra.png
+      #sub_title: Rockwell Automation
       caption: 2002 - 2007
       link: https://www.rockwellautomation.com/
       #quote: >
@@ -146,6 +152,7 @@ content:
     content:
       - layout: top-middle
         title:  Master of Science
+        icon: images/uwmilwaukee.gif
         sub_title: University of Wisconsin - Milwaukee
         caption: 2004-2008
         #quote: >
@@ -154,7 +161,9 @@ content:
         link: http://www.worldcat.org/oclc/288956579
       - layout: top-middle
         title: Bachelor of Science
+        icon: images/uwmilwaukee.gif
         sub_title: University of Wisconsin - Milwaukee
+        link: http://www.uwm.edu
         caption: 2000-2004
         #quote: >
         #  Short institution or course description (optional)
